@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Recipe Quencher</string>
+    <string name="api_key">22badb61911f4270a8669b13287706aa</string>
+
+    <string-array name="tags">
+        <item>drink</item>
+        <item>beverage</item>
+        <item>main course</item>
+        <item>juice</item>
+        <item>appetizer</item>
+        <item>cocktail</item>
+        <item>tea</item>
+        <item>mocktail</item>
+        <item>smoothie</item>
+        <item>coffee</item>
+    </string-array>
+</resources>
